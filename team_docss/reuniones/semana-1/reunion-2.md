@@ -1,5 +1,4 @@
-## **Reunión 3 — Sábado**
+##**Reunión 2 — Viernes**
 ### **Temas tratados:**
-- Creación y estructuración inicial de la bitácora del proyecto.  
-- Organización de carpetas dentro del repositorio.  
-- Estructuración general del proyecto.
+- Análisis detallado del dataset seleccionado.  
+- Verificación de compatibilidad con modelos avanzados y redes neuronales.
