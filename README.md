@@ -15,6 +15,7 @@ Este repositorio contiene el desarrollo del proyecto del curso, desde la obtenci
 
 ---
 ## Objetivo del Proyecto
+
 Realizar un análisis exhaustivo del empleo público en Colombia utilizando el dataset “Caracterización del Empleo Público”, con el fin de identificar patrones, tendencias y posibles inequidades relacionadas con el tipo de vinculación, nivel educativo, género, tipo de entidad y características laborales de los servidores públicos.
 ---
 ## Dataset seleccionado
