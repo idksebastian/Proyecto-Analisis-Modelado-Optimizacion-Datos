@@ -7,8 +7,8 @@ Este repositorio contiene el desarrollo del proyecto del curso, desde la obtenci
 ---
 ## Equipo de Trabajo (5 integrantes)
 - Nicolas Quintana — Rol: adquisición y limpieza de datos
-- Juan Marin — Rol: documentación y bitácoras
-- Sebastian Lizarazo — Rol: análisis exploratorio (EDA)
+- Sebastian Lizarazo — Rol: documentación y bitácoras
+- Juan Marin — Rol: análisis exploratorio (EDA)
 - Christian Joven — Rol: modelado y métricas
 - Yeisson Romero — Rol: visualización final y presentación
 
