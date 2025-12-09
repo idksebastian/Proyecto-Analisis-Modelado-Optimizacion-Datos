@@ -10,7 +10,7 @@ Este repositorio contiene el desarrollo del proyecto del curso, desde la obtenci
 - Sebastian Lizarazo — Rol: documentación y bitácoras
 - Juan Marin — Rol: análisis exploratorio (EDA)
 - Christian Joven — Rol: modelado y métricas
-- Yeisson Romero — Rol: visualización final y presentación
+- Yeisson Romero — Rol: soporte técnico y validación del repositorio
 
 
 ---
@@ -23,7 +23,7 @@ Realizar un análisis exhaustivo del empleo público en Colombia utilizando el d
 
 - Nombre del dataset: Caracterización del Empleo Público
 - Fuente: Portal de Datos Abiertos del Estado Colombiano – Datos.gov.co
-- Enlace oficial: https://www.datos.gov.co/Funci-n-p-blica/Caracterizaci-n-del-Empleo-P-blico/h8rs-jxum/about_data
+- Enlace oficial: **[Caracterización del Empleo Público — datos.gov.co](https://www.datos.gov.co/Funci-n-p-blica/Caracterizaci-n-del-Empleo-P-blico/h8rs-jxum/about_data)**
 - Descripción: Este conjunto de datos contiene información detallada sobre los servidores públicos registrados en el Sistema de Información y Gestión del Empleo Público (SIGEP). Incluye variables relacionadas con el perfil laboral y sociodemográfico de los empleados públicos, tales como tipo de entidad, sector administrativo, tipo de vinculación (planta, provisional, temporal, carrera administrativa, etc.), cargo, nivel jerárquico, nivel educativo, género, entre otros atributos relevantes.
 - Periodicidad: El dataset es actualizado periódicamente por la Función Pública, lo que garantiza la vigencia y confiabilidad de la información disponible.
 - Relevancia para el proyecto:
@@ -40,3 +40,11 @@ Este dataset permite realizar un análisis profundo sobre cómo está compuesto 
 6. Conclusiones
 
 ---
+## Avances de la Semana
+
+- ✔ Selección y validación del dataset oficial.  
+- ✔ Creación del repositorio en GitHub.  
+- ✔ Organización inicial de la estructura de carpetas.  
+- ✔ Redacción y diseño del README en formato Markdown.  
+- ✔ Revisión preliminar de la calidad del dataset (nulos, duplicados, tipos de datos).  
+- ✔ Asignación de roles y distribución del trabajo.  
