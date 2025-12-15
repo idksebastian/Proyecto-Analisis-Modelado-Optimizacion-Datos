@@ -11,3 +11,10 @@
 **Dificultades:** Varias columnas requieren estandarización antes de modelar.  
 **Siguiente paso:** Proponer posibles modelos según los patrones que surjan del EDA.
 
+## Semana 2
+- Análisis de los datos compilados.
+- Creaciión de las tablas en Google Collab.
+- Creación de las tablas en POWER BI.
+
+**Dificultades:** Aprender desde cero POWER BI, no fue complicado pero sí tomó algunas horas.  
+
