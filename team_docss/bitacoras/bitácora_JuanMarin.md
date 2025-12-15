@@ -1,7 +1,7 @@
 # Bitácora – Semana 1
 
 **Integrante:** Juan Marín  
-**Rol:** 
+**Rol:** Análisis Exploratorio de Datos (EDA inicial)
 
 ## Actividades realizadas
 - Revisión preliminar del dataset seleccionado sobre caracterización del empleo público.
