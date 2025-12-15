@@ -21,7 +21,7 @@
 # Bitácora – Semana 2
 
 **Integrante:** Juan Marín  
-**Rol:** Preparación y Limpieza de Datos (Data Preparation)
+**Rol:** Preparación y Limpieza de Datos (Preparación de datos)
 
 ## Actividades realizadas
 - Ejecución del proceso completo de limpieza de datos siguiendo la metodología ASUM-DM.
