@@ -9,4 +9,18 @@
 - Ajustes menores para mejorar la navegación en el repositorio.
 
 **Dificultades:** Coordinación inicial para que todos pudieran acceder sin errores.  
-**Siguiente paso:** Apoyar en la integración de notebooks y archivos futuros.
+**Siguiente paso:** Crear o apoyar en la creación de redes neuronales.
+
+
+# Bitácora – Semana 2  
+
+**Integrante:** Yeisson Romero  
+**Rol:** Apoyo en la Creación de Redes Neuronales  
+
+## Semana 2
+- Apoyo en la creación y configuración inicial de las redes neuronales del proyecto.  
+- Revisión de la estructura del modelo y de las capas utilizadas.  
+- Colaboración en el ajuste de parámetros para mejorar el desempeño del modelo.  
+- Validación básica de resultados obtenidos durante las primeras pruebas de entrenamiento.  
+
+
