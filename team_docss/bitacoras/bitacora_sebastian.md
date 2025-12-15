@@ -21,7 +21,7 @@
 - Creacion del documento final
 - Ayuda con el dashboard en power bi
 
-**Dificultades:** Aprender a usar power bi con el tiempo limitado solo se logro hacer lo basico
+**Dificultades:** Aprender a usar power bi con el tiempo limitado solo se logro hacer lo basico.
 **Siguiente paso:** Presentar el proyecto
 
 
